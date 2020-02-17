@@ -1,5 +1,5 @@
 # game options/settings
-TITLE = "Jumpy!"
+TITLE = "PyRabbits!"
 WIDTH = 480
 HEIGHT = 600
 FPS = 60
